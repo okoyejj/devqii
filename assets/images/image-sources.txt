@@ -1,0 +1,14 @@
+Logo:
+- Brand logo: Inline SVG created with DEVQII colors (navy #071a3d, blue #1f5ef0, coral #ff6b4a, gold #f4c542)
+- Location: includes/navigation.php
+
+Remote image sources used during development:
+- Hero section (home): https://images.unsplash.com/photo-1552664730-d307ca884978?auto=format&fit=crop&w=1200&q=80
+- Computer laboratory: https://images.unsplash.com/photo-1517694712202-14dd9538aa97?auto=format&fit=crop&w=1000&q=80
+- Mentorship/collaboration: https://images.unsplash.com/photo-1552664730-d307ca884978?auto=format&fit=crop&w=1000&q=80
+
+How to replace remote images before production deployment:
+1. Download the preferred images and save them in assets/images/.
+2. Rename them to descriptive filenames such as hero-students.webp, computer-lab.webp and teamwork.webp.
+3. Update the src values in the PHP/HTML pages to point to the local files.
+4. Keep this file updated with the final image sources and licenses.
