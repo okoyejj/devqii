@@ -14,6 +14,7 @@
 }
 @media (max-width: 640px) {
   .site-nav { padding: 0.85rem 1rem; }
+  .brand-logo { width: 112px; height: 66px; }
   .hero { padding-top: 2.5rem; }
   .trust-strip .container, .stat-grid { grid-template-columns: 1fr; }
   .schedule-grid { grid-template-columns: 1fr; }
