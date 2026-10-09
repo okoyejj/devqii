@@ -26,7 +26,6 @@
         <div class="contact-panel">
           <p><strong>Speak with admissions</strong></p>
           <a href="https://wa.me/447456948517" target="_blank" rel="noreferrer"><span>Phone</span> +44 7456 948517</a>
-          <a href="https://wa.me/237654334363" target="_blank" rel="noreferrer"><span>Phone</span> +237 654 334363</a>
           <a href="https://wa.me/237677308819" target="_blank" rel="noreferrer"><span>Phone</span> +237 677 308819</a>
           <a href="mailto:info@devqii.co.uk"><span>Email</span> info@devqii.co.uk</a>
         </div>

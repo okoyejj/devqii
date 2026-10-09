@@ -37,8 +37,7 @@ function checked_value($key) {
           <div class="panel">
             <h3 style="margin-top: 0; color: var(--blue);">Need help?</h3>
             <p><strong>Okoye Bilikha</strong><br><a href="https://wa.me/447456948517">+44 7456 948517</a></p>
-            <p><strong>Denis Djiozio</strong><br><a href="https://wa.me/237654334363">+237 654 334363</a></p>
-            <p><strong>Ndive Njombe</strong><br><a href="https://wa.me/237677308819">+237 677 308819</a></p>
+            <p><strong>Ndive Njumbe</strong><br><a href="https://wa.me/237677308819">+237 677 308819</a></p>
           </div>
           <div class="panel">
             <h3 style="margin-top: 0; color: var(--blue);">Why DEVQII?</h3>

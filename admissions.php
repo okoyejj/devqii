@@ -32,8 +32,7 @@
       <article class="card">
         <h3>Contact admissions team</h3>
         <p><strong>Okoye Bilikha</strong><br><a href="https://wa.me/447456948517">+44 7456 948517</a></p>
-        <p><strong>Denis Djiozio</strong><br><a href="https://wa.me/237654334363">+237 654 334363</a></p>
-        <p><strong>Ndive Njombe</strong><br><a href="https://wa.me/237677308819">+237 677 308819</a></p>
+        <p><strong>Ndive Njumbe</strong><br><a href="https://wa.me/237677308819">+237 677 308819</a></p>
         <p>Email: <a href="mailto:info@devqii.co.uk">info@devqii.co.uk</a></p>
         <a class="button button-secondary" href="apply.php">Start application form</a>
       </article>

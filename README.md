@@ -68,6 +68,9 @@ The site currently uses remote images from Unsplash for development. Before prod
 4. Keep the original source notes in assets/images/image-sources.txt.
 
 ## Uploading to GoDaddy public_html
+For automated deployment from GitHub through local Jenkins, see
+[the pipeline setup guide](docs/jenkins-deployment.md).
+
 1. Compress the project files into a zip archive.
 2. Log in to GoDaddy and open the hosting dashboard.
 3. Open File Manager and navigate to public_html.

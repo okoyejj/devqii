@@ -3,3 +3,7 @@ config.php
 ~$*.odt
 *.tmp
 *.log
+dist/
+.jenkins-local/
+__pycache__/
+devqii-upload.zip

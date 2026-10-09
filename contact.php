@@ -20,8 +20,7 @@
         <article class="contact-card">
           <h3>Admissions Team</h3>
           <p><strong>Okoye Bilikha</strong><br>Phone/WhatsApp: <a href="tel:+447456948517">+44 7456 948517</a></p>
-          <p><strong>Denis Djiozio</strong><br>Phone/WhatsApp: <a href="tel:+237654334363">+237 654 334363</a></p>
-          <p><strong>Ndive Njombe</strong><br>Phone/WhatsApp: <a href="tel:+237677308819">+237 677 308819</a></p>
+          <p><strong>Ndive Njumbe</strong><br>Phone/WhatsApp: <a href="tel:+237677308819">+237 677 308819</a></p>
           <p>Email: <a href="mailto:info@devqii.co.uk">info@devqii.co.uk</a></p>
         </article>
       </div>

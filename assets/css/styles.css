@@ -80,11 +80,25 @@ img { max-width: 100%; height: auto; display: block; }
 .team-card { background: var(--white); border: 1px solid var(--border); border-radius: 1rem; overflow: hidden; box-shadow: 0 20px 40px rgba(7,26,61,.08); }
 .team-photo { aspect-ratio: 4 / 3; background: linear-gradient(135deg, #eef5ff, #f8fbff); overflow: hidden; }
 .team-photo img { width: 100%; height: 100%; object-fit: cover; filter: saturate(0.96) contrast(1.04); }
-.team-photo-playne { object-position: 50% 16%; }
+.team-initials { display: grid; place-items: center; width: 100%; height: 100%; background: linear-gradient(135deg, var(--navy), var(--blue)); color: var(--white); font-size: clamp(2.6rem, 6vw, 4.2rem); font-weight: 900; letter-spacing: .08em; }
+.team-photo-playne { object-position: 50% 24%; }
 .team-photo-okoye { object-position: 50% 35%; }
+.team-photo-modest { object-position: 50% 28%; }
+.team-photo-lesly { object-position: 50% 55%; }
+.team-photo-marion { object-position: 50% 35%; }
+.team-photo-caleb { object-position: 50% 28%; }
 .team-body { padding: 1.4rem; }
 .team-body h2 { margin: 0 0 .7rem; color: var(--navy); font-size: 1.35rem; }
 .team-role { margin: 0 0 .35rem; color: var(--coral); font-size: .82rem; font-weight: 800; letter-spacing: .08em; text-transform: uppercase; }
+.team-more { margin-top: .85rem; }
+.team-more summary { display: inline-flex; align-items: center; gap: .3rem; color: var(--blue); font-weight: 800; cursor: pointer; list-style: none; }
+.team-more summary::-webkit-details-marker { display: none; }
+.team-more summary::after { content: '+'; display: inline-grid; place-items: center; width: 1.35rem; height: 1.35rem; border: 1px solid #d8e7ff; border-radius: 999px; background: #eef5ff; color: var(--blue); line-height: 1; }
+.team-more[open] summary::after { content: '-'; }
+.team-more .summary-close { display: none; }
+.team-more[open] .summary-open { display: none; }
+.team-more[open] .summary-close { display: inline; }
+.team-more p { margin: .75rem 0 0; }
 .team-card-upcoming { display: grid; grid-template-columns: 9rem 1fr; grid-column: 1 / -1; align-items: center; }
 .team-placeholder { display: grid; place-items: center; min-height: 100%; background: #eef5ff; color: var(--blue); font-size: 3rem; font-weight: 800; }
 .team-callout { display: flex; align-items: center; justify-content: space-between; gap: 1rem; flex-wrap: wrap; }
