@@ -52,7 +52,7 @@ Reference: [Jenkins Pipeline syntax](https://www.jenkins.io/doc/book/pipeline/sy
 In Jenkins Credentials, create a **Username with password** credential:
 
 - ID: `godaddy-ftp`
-- Username: `okoye.bilikha@developer-village.com`
+- Username: `codex@devqii.co.uk`
 - Password: the FTP password, entered directly in Jenkins.
 
 The password is read from the process environment during deployment. It is never
